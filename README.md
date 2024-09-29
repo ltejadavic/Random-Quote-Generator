@@ -17,7 +17,7 @@ Technologies Used
 How to Use
 
 	1.	Clone the repository:
-git clone https://github.com/yourusername/random-quote-generator.git
+git clone https://github.com/ltejadavic/random-quote-generator.git
 	2.	Install dependencies:
 npm install
 	3.	Run the project locally:
