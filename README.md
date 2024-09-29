@@ -1,3 +1,31 @@
+Random Quote Generator
+
+This project is a React-based Random Quote Generator that displays a new quote with every button click. The quotes are fetched from a predefined array of famous quotes and authors. Each time a new quote is displayed, the background color, quote text color, and button color change randomly, providing a dynamic and colorful user experience.
+
+Features
+
+	•	Displays a random quote from a list.
+	•	Background, text, and button colors change randomly with each new quote.
+	•	Uses React state and event handlers for functionality.
+	•	Styled using custom CSS for a sleek, minimal look.
+
+Technologies Used
+
+	•	React.js: For building the user interface.
+	•	CSS: For styling and animations.
+
+How to Use
+
+	1.	Clone the repository:
+git clone https://github.com/yourusername/random-quote-generator.git
+	2.	Install dependencies:
+npm install
+	3.	Run the project locally:
+npm start
+	4.	The app will open in your browser at http://localhost:3000.
+
+Click the “New quote” button to generate a random quote and change the background color!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
